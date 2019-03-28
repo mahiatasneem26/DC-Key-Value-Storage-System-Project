@@ -7,9 +7,9 @@ using socket programming interface.
 ## Commands Permitted:
 The server only permits commands such as GET, PUT, and DUMP in the request field followed by the key and value stored. 
 
-  ##### GET returns the value of the key specified 
-  ##### PUT stores the key and a specified value on the server 
-  ##### DUMP lists all of the key value pairs contained in the server. 
+  #### GET returns the value of the key specified 
+  #### PUT stores the key and a specified value on the server 
+  #### DUMP lists all of the key value pairs contained in the server. 
 
 
 ## Use of Proxy Server:
